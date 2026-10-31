@@ -1,0 +1,6 @@
+[build]
+  # The app lives in /public. No build step is needed.
+  publish = "public"
+
+[functions]
+  directory = "netlify/functions"
